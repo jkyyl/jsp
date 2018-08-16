@@ -1,0 +1,548 @@
+src/main/java/kr/or/ddit/calculator/Calculator.java:10:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/calculator/Calculator.java:12:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/calculator/Calculator.java:19:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/calculator/Calculator.java:21:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/calculator/Calculator.java:29:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/calculator/Calculator.java:31:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/calculator/Calculator.java:36:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/calculator/Calculator.java:38:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/AnsiX923Padding.java:5:	생성자에서 Assign된 변수 'name' 를 Final로 선언하지 않았음
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CBC.java:15:	Variables should start with a lowercase character, 'SS0' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CBC.java:50:	Variables should start with a lowercase character, 'SS1' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CBC.java:85:	Variables should start with a lowercase character, 'SS2' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CBC.java:120:	Variables should start with a lowercase character, 'SS3' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CBC.java:155:	Variables should start with a lowercase character, 'KC' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CBC.java:163:	Variables should start with a lowercase character, 'BIG' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CBC.java:164:	Variables should start with a lowercase character, 'ENDIAN' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CBC.java:165:	Variables should start with a lowercase character, 'Key' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CBC.java:167:	Variables should start with a lowercase character, 'A' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CBC.java:171:	Variables should start with a lowercase character, 'A' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CBC.java:175:	Variables should start with a lowercase character, 'A' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CBC.java:179:	Variables should start with a lowercase character, 'A' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CBC.java:191:	Variables should start with a lowercase character, 'K' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CBC.java:191:	Variables should start with a lowercase character, 'L0' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CBC.java:191:	Variables should start with a lowercase character, 'L1' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CBC.java:191:	Variables should start with a lowercase character, 'R0' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CBC.java:191:	Variables should start with a lowercase character, 'R1' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CBC.java:192:	Variables should start with a lowercase character, 'T0' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CBC.java:192:	Variables should start with a lowercase character, 'T1' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CBC.java:193:	Variables should start with a lowercase character, 'T00' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CBC.java:193:	Variables should start with a lowercase character, 'T11' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CBC.java:214:	Variables should start with a lowercase character, 'L0' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CBC.java:215:	Variables should start with a lowercase character, 'L1' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CBC.java:216:	Variables should start with a lowercase character, 'R0' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CBC.java:217:	Variables should start with a lowercase character, 'R1' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CBC.java:222:	Variables should start with a lowercase character, 'K' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CBC.java:341:	Variables should start with a lowercase character, 'L0' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CBC.java:342:	Variables should start with a lowercase character, 'L1' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CBC.java:343:	Variables should start with a lowercase character, 'R0' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CBC.java:344:	Variables should start with a lowercase character, 'R1' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CBC.java:345:	Variables should start with a lowercase character, 'K' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CBC.java:467:	Variables should start with a lowercase character, 'A' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CBC.java:467:	Variables should start with a lowercase character, 'B' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CBC.java:467:	Variables should start with a lowercase character, 'C' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CBC.java:467:	Variables should start with a lowercase character, 'D' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CBC.java:467:	Variables should start with a lowercase character, 'E' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CBC.java:467:	Variables should start with a lowercase character, 'F' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CBC.java:467:	Variables should start with a lowercase character, 'G' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CBC.java:467:	Variables should start with a lowercase character, 'H' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CBC.java:467:	Variables should start with a lowercase character, 'K' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CBC.java:467:	Variables should start with a lowercase character, 'Z' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CBC.java:468:	Variables should start with a lowercase character, 'T0' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CBC.java:469:	Variables should start with a lowercase character, 'T00' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CBC.java:469:	Variables should start with a lowercase character, 'T11' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CBC.java:485:	Variables should start with a lowercase character, 'A' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CBC.java:485:	Variables should start with a lowercase character, 'B' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CBC.java:485:	Variables should start with a lowercase character, 'C' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CBC.java:485:	Variables should start with a lowercase character, 'D' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CBC.java:485:	Variables should start with a lowercase character, 'E' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CBC.java:485:	Variables should start with a lowercase character, 'F' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CBC.java:485:	Variables should start with a lowercase character, 'G' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CBC.java:485:	Variables should start with a lowercase character, 'H' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CBC.java:485:	Variables should start with a lowercase character, 'K' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CBC.java:485:	Variables should start with a lowercase character, 'Z' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CBC.java:486:	Variables should start with a lowercase character, 'T0' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CBC.java:487:	Variables should start with a lowercase character, 'T00' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CBC.java:487:	Variables should start with a lowercase character, 'T11' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CBC.java:504:	Variables should start with a lowercase character, 'A' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CBC.java:505:	Variables should start with a lowercase character, 'B' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CBC.java:506:	Variables should start with a lowercase character, 'C' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CBC.java:507:	Variables should start with a lowercase character, 'D' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CBC.java:508:	Variables should start with a lowercase character, 'E' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CBC.java:509:	Variables should start with a lowercase character, 'F' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CBC.java:510:	Variables should start with a lowercase character, 'G' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CBC.java:511:	Variables should start with a lowercase character, 'H' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CBC.java:513:	Variables should start with a lowercase character, 'K' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CBC.java:515:	Variables should start with a lowercase character, 'T0' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CBC.java:515:	Variables should start with a lowercase character, 'T1' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CBC.java:668:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'KEY_SIZE' is not final.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CBC.java:668:	Variables should start with a lowercase character, 'KEY_SIZE' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CBC.java:669:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'TEXT_SIZE' is not final.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CBC.java:669:	Variables should start with a lowercase character, 'TEXT_SIZE' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CBC.java:786:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CBC.java:788:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CBC.java:790:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:13:	Variables should start with a lowercase character, 'ENDIAN' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:183:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'K_offset' is not final.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:183:	Variables should start with a lowercase character, 'ABCD' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:183:	Variables should start with a lowercase character, 'K' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:183:	Variables should start with a lowercase character, 'KC' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:183:	Variables should start with a lowercase character, 'K_offset' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:183:	Variables should start with a lowercase character, 'T' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:193:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'K_offset' is not final.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:193:	Variables should start with a lowercase character, 'ABCD' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:193:	Variables should start with a lowercase character, 'K' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:193:	Variables should start with a lowercase character, 'KC' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:193:	Variables should start with a lowercase character, 'K_offset' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:193:	Variables should start with a lowercase character, 'T' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:206:	Variables should start with a lowercase character, 'A' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:207:	Variables should start with a lowercase character, 'A' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:208:	Variables should start with a lowercase character, 'A' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:209:	Variables should start with a lowercase character, 'A' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:217:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'K_offset' is not final.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:217:	Variables should start with a lowercase character, 'K' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:217:	Variables should start with a lowercase character, 'K_offset' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:217:	Variables should start with a lowercase character, 'L0' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:217:	Variables should start with a lowercase character, 'L1' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:217:	Variables should start with a lowercase character, 'LR' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:217:	Variables should start with a lowercase character, 'R0' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:217:	Variables should start with a lowercase character, 'R1' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:217:	Variables should start with a lowercase character, 'T' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:230:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'IN_VALUE1' is not final.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:230:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'IN_VALUE2' is not final.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:230:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'OUT_VALUE' is not final.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:230:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'in_value1_offset' is not final.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:230:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'in_value2_offset' is not final.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:230:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'out_value_offset' is not final.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:230:	Variables should start with a lowercase character, 'IN_VALUE1' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:230:	Variables should start with a lowercase character, 'IN_VALUE2' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:230:	Variables should start with a lowercase character, 'OUT_VALUE' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:237:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'pbOUT_offset' is not final.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:318:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'in_offset' is not final.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:318:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'out_offset' is not final.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:319:	Variables should start with a lowercase character, 'LR' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:320:	Variables should start with a lowercase character, 'T' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:321:	Variables should start with a lowercase character, 'K' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:372:	Variables should start with a lowercase character, 'ABCD' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:373:	Variables should start with a lowercase character, 'T' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:374:	Variables should start with a lowercase character, 'K' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:435:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'in_offset' is not final.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:436:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'out_offset' is not final.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:437:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'pbszCounter_offset' is not final.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:466:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'out_offset' is not final.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:482:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'message_length' is not final.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:482:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'message_offset' is not final.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:517:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'message_length' is not final.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:517:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'message_offset' is not final.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:573:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'key_data' is not final.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:585:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'seed_key' is not final.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:586:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'cbc_buffer' is not final.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:587:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'buffer_length' is not final.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:588:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'cbc_last_block' is not final.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:589:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'last_block_flag' is not final.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:610:	배열의 값을 루프문을 이용하여 복사하는 것 보다 System.arraycopy() 메소드를 이용하여 복사하는 것이 효율적이며 수행 속도가 빠름
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:615:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'dst_offset' is not final.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:615:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'src_offset' is not final.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:627:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'dst_offset' is not final.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:633:	Variables should start with a lowercase character, 'ENDIAN' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:640:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'src_offset' is not final.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:647:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'b_offset' is not final.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:647:	Variables should start with a lowercase character, 'ENDIAN' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:649:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'shift_value' is not final.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:650:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'mask_value' is not final.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:651:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'mask_value2' is not final.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:655:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'shift_value' is not final.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:656:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'mask_value' is not final.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:657:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'mask_value2' is not final.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:663:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'b_offset' is not final.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:663:	Variables should start with a lowercase character, 'ENDIAN' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:665:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'shift_value' is not final.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:666:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'mask_value' is not final.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:670:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'shift_value' is not final.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:671:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'mask_value' is not final.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:678:	Variables should start with a lowercase character, 'ENDIAN' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:688:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'dst_offset' is not final.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:688:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'src_offset' is not final.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:688:	Variables should start with a lowercase character, 'ENDIAN' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:696:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'src_offset' is not final.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:696:	Variables should start with a lowercase character, 'ENDIAN' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:704:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'src_offset' is not final.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:708:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'dst_offset' is not final.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:708:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'src_offset' is not final.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:708:	Variables should start with a lowercase character, 'ENDIAN' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:712:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'dst_offset' is not final.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:712:	Variables should start with a lowercase character, 'ENDIAN' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:727:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'dst_offset' is not final.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:740:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'v_mask' is not final.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:772:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'PLAINTEXT_LENGTH' is not final.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:772:	Variables should start with a lowercase character, 'PLAINTEXT_LENGTH' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:773:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'CIPHERTEXT_LENGTH' is not final.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:773:	Variables should start with a lowercase character, 'CIPHERTEXT_LENGTH' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:783:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:784:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:785:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:786:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:787:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:788:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:789:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:790:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:791:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:792:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:793:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:794:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:814:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:816:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:817:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:820:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:822:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:823:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:825:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'test_num' is not final.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:832:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:834:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:835:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:838:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:840:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:841:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:859:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:860:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:874:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:875:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:876:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:877:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:878:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:879:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:880:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:881:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:886:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'pdmessage_length' is not final.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:888:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'process_blockLeng' is not final.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:926:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:928:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:929:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:981:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:983:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:984:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:1011:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:1012:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:1013:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:1014:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:1015:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:1016:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:1017:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:1018:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:1060:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:1062:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:1063:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:1114:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:1116:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:1117:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:1139:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:1140:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:1141:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:1142:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:1143:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:1144:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:1145:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:1146:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:1188:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:1190:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:1191:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:1242:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:1244:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CTR.java:1245:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:18:	Variables should start with a lowercase character, 'ENDIAN' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:165:	Variables should start with a lowercase character, 'A' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:166:	Variables should start with a lowercase character, 'A' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:167:	Variables should start with a lowercase character, 'A' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:168:	Variables should start with a lowercase character, 'A' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:175:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'K_offset' is not final.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:175:	Variables should start with a lowercase character, 'K' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:175:	Variables should start with a lowercase character, 'K_offset' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:175:	Variables should start with a lowercase character, 'L0' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:175:	Variables should start with a lowercase character, 'L1' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:175:	Variables should start with a lowercase character, 'LR' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:175:	Variables should start with a lowercase character, 'R0' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:175:	Variables should start with a lowercase character, 'R1' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:175:	Variables should start with a lowercase character, 'T' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:202:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'in_offset' is not final.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:202:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'out_offset' is not final.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:203:	Variables should start with a lowercase character, 'LR' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:204:	Variables should start with a lowercase character, 'T' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:205:	Variables should start with a lowercase character, 'K' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:349:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'in_offset' is not final.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:349:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'out_offset' is not final.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:350:	Variables should start with a lowercase character, 'LR' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:351:	Variables should start with a lowercase character, 'T' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:352:	Variables should start with a lowercase character, 'K' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:437:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'message_length' is not final.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:463:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'seed_key' is not final.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:464:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'ecb_buffer' is not final.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:465:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'buffer_length' is not final.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:466:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'ecb_last_block' is not final.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:467:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'last_block_flag' is not final.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:498:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'key_data' is not final.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:514:	Variables should start with a lowercase character, 'ABCD' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:515:	Variables should start with a lowercase character, 'T' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:516:	Variables should start with a lowercase character, 'K' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:573:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'in_offset' is not final.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:574:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'out_offset' is not final.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:618:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'out_offset' is not final.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:680:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'K_offset' is not final.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:680:	Variables should start with a lowercase character, 'ABCD' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:680:	Variables should start with a lowercase character, 'K' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:680:	Variables should start with a lowercase character, 'KC' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:680:	Variables should start with a lowercase character, 'K_offset' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:680:	Variables should start with a lowercase character, 'T' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:690:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'K_offset' is not final.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:690:	Variables should start with a lowercase character, 'ABCD' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:690:	Variables should start with a lowercase character, 'K' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:690:	Variables should start with a lowercase character, 'KC' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:690:	Variables should start with a lowercase character, 'K_offset' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:690:	Variables should start with a lowercase character, 'T' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:713:	Variables should start with a lowercase character, 'ABCD' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:714:	Variables should start with a lowercase character, 'T' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:715:	Variables should start with a lowercase character, 'K' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:720:	필요없는 문장 (;)이 있음
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:721:	필요없는 문장 (;)이 있음
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:761:	배열의 값을 루프문을 이용하여 복사하는 것 보다 System.arraycopy() 메소드를 이용하여 복사하는 것이 효율적이며 수행 속도가 빠름
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:766:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'dst_offset' is not final.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:766:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'src_offset' is not final.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:778:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'dst_offset' is not final.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:784:	Variables should start with a lowercase character, 'ENDIAN' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:791:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'src_offset' is not final.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:798:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'b_offset' is not final.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:798:	Variables should start with a lowercase character, 'ENDIAN' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:800:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'shift_value' is not final.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:801:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'mask_value' is not final.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:802:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'mask_value2' is not final.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:806:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'shift_value' is not final.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:807:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'mask_value' is not final.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:808:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'mask_value2' is not final.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:814:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'b_offset' is not final.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:814:	Variables should start with a lowercase character, 'ENDIAN' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:816:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'shift_value' is not final.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:817:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'mask_value' is not final.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:821:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'shift_value' is not final.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:822:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'mask_value' is not final.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:829:	Variables should start with a lowercase character, 'ENDIAN' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:839:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'dst_offset' is not final.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:839:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'src_offset' is not final.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:839:	Variables should start with a lowercase character, 'ENDIAN' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:847:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'src_offset' is not final.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:847:	Variables should start with a lowercase character, 'ENDIAN' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:855:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'src_offset' is not final.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:859:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'dst_offset' is not final.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:859:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'src_offset' is not final.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:859:	Variables should start with a lowercase character, 'ENDIAN' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:863:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'dst_offset' is not final.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:863:	Variables should start with a lowercase character, 'ENDIAN' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:878:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'dst_offset' is not final.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:891:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'v_mask' is not final.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:920:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:921:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:922:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:932:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:933:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:934:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:935:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:936:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:937:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:943:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:944:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:945:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:947:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:948:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:949:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:961:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:962:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:963:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:965:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:966:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:967:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:978:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:979:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:980:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:982:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:983:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:984:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:997:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:998:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:999:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:1000:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:1001:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:1002:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:1003:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:1009:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'PLAINTEXT_LENGTH' is not final.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:1009:	Variables should start with a lowercase character, 'PLAINTEXT_LENGTH' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:1010:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'CIPHERTEXT_LENGTH' is not final.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:1010:	Variables should start with a lowercase character, 'CIPHERTEXT_LENGTH' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:1015:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'process_blockLeng' is not final.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:1055:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:1056:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:1058:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:1077:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'EncryptedMessage_length' is not final.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:1077:	Variables should start with a lowercase character, 'EncryptedMessage_length' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:1080:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:1117:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'message_length' is not final.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:1128:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:1133:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:1134:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:1135:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:1194:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:1195:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:1197:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:1219:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:1267:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:1272:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:1273:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:1274:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:1331:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:1332:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:1334:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:1356:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:1404:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:1409:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:1410:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_ECB.java:1411:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/encrypt/kisa/sha256/KISA_SHA256.java:13:	Variables should start with a lowercase character, 'ENDIAN' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/sha256/KISA_SHA256.java:60:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'B_offset' is not final.
+src/main/java/kr/or/ddit/encrypt/kisa/sha256/KISA_SHA256.java:60:	Variables should start with a lowercase character, 'B' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/sha256/KISA_SHA256.java:60:	Variables should start with a lowercase character, 'B_offset' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/sha256/KISA_SHA256.java:60:	Variables should start with a lowercase character, 'D' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/sha256/KISA_SHA256.java:75:	Variables that are final and static should be all capitals, 'abcdefgh_a' is not all capitals.
+src/main/java/kr/or/ddit/encrypt/kisa/sha256/KISA_SHA256.java:76:	Variables that are final and static should be all capitals, 'abcdefgh_b' is not all capitals.
+src/main/java/kr/or/ddit/encrypt/kisa/sha256/KISA_SHA256.java:77:	Variables that are final and static should be all capitals, 'abcdefgh_c' is not all capitals.
+src/main/java/kr/or/ddit/encrypt/kisa/sha256/KISA_SHA256.java:78:	Variables that are final and static should be all capitals, 'abcdefgh_d' is not all capitals.
+src/main/java/kr/or/ddit/encrypt/kisa/sha256/KISA_SHA256.java:79:	Variables that are final and static should be all capitals, 'abcdefgh_e' is not all capitals.
+src/main/java/kr/or/ddit/encrypt/kisa/sha256/KISA_SHA256.java:80:	Variables that are final and static should be all capitals, 'abcdefgh_f' is not all capitals.
+src/main/java/kr/or/ddit/encrypt/kisa/sha256/KISA_SHA256.java:81:	Variables that are final and static should be all capitals, 'abcdefgh_g' is not all capitals.
+src/main/java/kr/or/ddit/encrypt/kisa/sha256/KISA_SHA256.java:82:	Variables that are final and static should be all capitals, 'abcdefgh_h' is not all capitals.
+src/main/java/kr/or/ddit/encrypt/kisa/sha256/KISA_SHA256.java:84:	Variables should start with a lowercase character, 'X' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/sha256/KISA_SHA256.java:85:	Variables should start with a lowercase character, 'T1' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/sha256/KISA_SHA256.java:92:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'x_offset' is not final.
+src/main/java/kr/or/ddit/encrypt/kisa/sha256/KISA_SHA256.java:103:	Variables should start with a lowercase character, 'ChainVar' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/sha256/KISA_SHA256.java:103:	Variables should start with a lowercase character, 'Message' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/sha256/KISA_SHA256.java:105:	Variables should start with a lowercase character, 'T1' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/sha256/KISA_SHA256.java:106:	Variables should start with a lowercase character, 'X' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/sha256/KISA_SHA256.java:150:	Variables should start with a lowercase character, 'Info' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/sha256/KISA_SHA256.java:169:	'uDataLen' 처럼 파라미터 값을 직접 변경하지 말것
+src/main/java/kr/or/ddit/encrypt/kisa/sha256/KISA_SHA256.java:169:	Variables should start with a lowercase character, 'Info' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/sha256/KISA_SHA256.java:170:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'pszMessage_offset' is not final.
+src/main/java/kr/or/ddit/encrypt/kisa/sha256/KISA_SHA256.java:194:	Variables should start with a lowercase character, 'Info' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/sha256/KISA_SHA256.java:195:	Variables should start with a lowercase character, 'Index' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/sha256/KISA_SHA256.java:250:	배열의 값을 루프문을 이용하여 복사하는 것 보다 System.arraycopy() 메소드를 이용하여 복사하는 것이 효율적이며 수행 속도가 빠름
+src/main/java/kr/or/ddit/encrypt/kisa/sha256/KISA_SHA256.java:255:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'dst_offset' is not final.
+src/main/java/kr/or/ddit/encrypt/kisa/sha256/KISA_SHA256.java:255:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'src_offset' is not final.
+src/main/java/kr/or/ddit/encrypt/kisa/sha256/KISA_SHA256.java:267:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'dst_offset' is not final.
+src/main/java/kr/or/ddit/encrypt/kisa/sha256/KISA_SHA256.java:273:	Variables should start with a lowercase character, 'ENDIAN' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/sha256/KISA_SHA256.java:280:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'src_offset' is not final.
+src/main/java/kr/or/ddit/encrypt/kisa/sha256/KISA_SHA256.java:287:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'b_offset' is not final.
+src/main/java/kr/or/ddit/encrypt/kisa/sha256/KISA_SHA256.java:287:	Variables should start with a lowercase character, 'ENDIAN' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/sha256/KISA_SHA256.java:289:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'shift_value' is not final.
+src/main/java/kr/or/ddit/encrypt/kisa/sha256/KISA_SHA256.java:290:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'mask_value' is not final.
+src/main/java/kr/or/ddit/encrypt/kisa/sha256/KISA_SHA256.java:291:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'mask_value2' is not final.
+src/main/java/kr/or/ddit/encrypt/kisa/sha256/KISA_SHA256.java:295:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'shift_value' is not final.
+src/main/java/kr/or/ddit/encrypt/kisa/sha256/KISA_SHA256.java:296:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'mask_value' is not final.
+src/main/java/kr/or/ddit/encrypt/kisa/sha256/KISA_SHA256.java:297:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'mask_value2' is not final.
+src/main/java/kr/or/ddit/encrypt/kisa/sha256/KISA_SHA256.java:303:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'b_offset' is not final.
+src/main/java/kr/or/ddit/encrypt/kisa/sha256/KISA_SHA256.java:303:	Variables should start with a lowercase character, 'ENDIAN' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/sha256/KISA_SHA256.java:305:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'shift_value' is not final.
+src/main/java/kr/or/ddit/encrypt/kisa/sha256/KISA_SHA256.java:306:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'mask_value' is not final.
+src/main/java/kr/or/ddit/encrypt/kisa/sha256/KISA_SHA256.java:310:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'shift_value' is not final.
+src/main/java/kr/or/ddit/encrypt/kisa/sha256/KISA_SHA256.java:311:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'mask_value' is not final.
+src/main/java/kr/or/ddit/encrypt/kisa/sha256/KISA_SHA256.java:318:	Variables should start with a lowercase character, 'ENDIAN' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/sha256/KISA_SHA256.java:328:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'dst_offset' is not final.
+src/main/java/kr/or/ddit/encrypt/kisa/sha256/KISA_SHA256.java:328:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'src_offset' is not final.
+src/main/java/kr/or/ddit/encrypt/kisa/sha256/KISA_SHA256.java:328:	Variables should start with a lowercase character, 'ENDIAN' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/sha256/KISA_SHA256.java:336:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'src_offset' is not final.
+src/main/java/kr/or/ddit/encrypt/kisa/sha256/KISA_SHA256.java:336:	Variables should start with a lowercase character, 'ENDIAN' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/sha256/KISA_SHA256.java:344:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'src_offset' is not final.
+src/main/java/kr/or/ddit/encrypt/kisa/sha256/KISA_SHA256.java:348:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'dst_offset' is not final.
+src/main/java/kr/or/ddit/encrypt/kisa/sha256/KISA_SHA256.java:348:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'src_offset' is not final.
+src/main/java/kr/or/ddit/encrypt/kisa/sha256/KISA_SHA256.java:348:	Variables should start with a lowercase character, 'ENDIAN' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/sha256/KISA_SHA256.java:352:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'dst_offset' is not final.
+src/main/java/kr/or/ddit/encrypt/kisa/sha256/KISA_SHA256.java:352:	Variables should start with a lowercase character, 'ENDIAN' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/sha256/KISA_SHA256.java:367:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'dst_offset' is not final.
+src/main/java/kr/or/ddit/encrypt/kisa/sha256/KISA_SHA256.java:380:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'v_mask' is not final.
+src/main/java/kr/or/ddit/encrypt/kisa/sha256/KISA_SHA256.java:406:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/encrypt/kisa/sha256/KISA_SHA256.java:407:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/encrypt/kisa/sha256/KISA_SHA256.java:408:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/encrypt/kisa/sha256/KISA_SHA256.java:409:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/encrypt/kisa/sha256/KISA_SHA256.java:411:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'Plaintext_length' is not final.
+src/main/java/kr/or/ddit/encrypt/kisa/sha256/KISA_SHA256.java:411:	Variables should start with a lowercase character, 'Plaintext_length' starts with uppercase character.
+src/main/java/kr/or/ddit/encrypt/kisa/sha256/KISA_SHA256.java:416:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/encrypt/kisa/sha256/KISA_SHA256.java:417:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/encrypt/kisa/sha256/KISA_SHA256.java:418:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/encrypt/kisa/sha256/KISA_SHA256.java:423:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/encrypt/kisa/sha256/KISA_SHA256.java:424:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/encrypt/kisa/sha256/KISA_SHA256.java:425:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/encrypt/kisa/sha256/KISA_SHA256.java:432:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/encrypt/kisa/sha256/KISA_SHA256.java:433:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/encrypt/kisa/sha256/KISA_SHA256.java:434:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/encrypt/kisa/sha256/KISA_SHA256.java:437:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/encrypt/kisa/sha256/KISA_SHA256.java:438:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/encrypt/kisa/sha256/KISA_SHA256.java:439:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/file/FileUploadServlet.java:30:	생성자에서 Assign된 변수 'logger' 를 Final로 선언하지 않았음
+src/main/java/kr/or/ddit/file/FileUtil.java:5:	Variables that are final and static should be all capitals, 'fileUploadPath' is not all capitals.
+src/main/java/kr/or/ddit/filter/DefCompFilter.java:25:	생성자에서 Assign된 변수 'logger' 를 Final로 선언하지 않았음
+src/main/java/kr/or/ddit/filter/DefCompFilter.java:31:	빈 Method에 주석을 추가할것
+src/main/java/kr/or/ddit/filter/DefCompFilter.java:56:	빈 Method에 주석을 추가할것
+src/main/java/kr/or/ddit/filter/DefCompWrapper.java:13:	생성자에서 Assign된 변수 'map' 를 Final로 선언하지 않았음
+src/main/java/kr/or/ddit/filter/LocaleSelectFilter.java:23:	생성자에서 Assign된 변수 'logger' 를 Final로 선언하지 않았음
+src/main/java/kr/or/ddit/filter/LocaleSelectFilter.java:29:	빈 Method에 주석을 추가할것
+src/main/java/kr/or/ddit/filter/LocaleSelectFilter.java:45:	빈 Method에 주석을 추가할것
+src/main/java/kr/or/ddit/filter/LocaleSelectWrapper.java:13:	생성자에서 Assign된 변수 'map' 를 Final로 선언하지 않았음
+src/main/java/kr/or/ddit/filter/RequestCounterFilter.java:26:	생성자에서 Assign된 변수 'logger' 를 Final로 선언하지 않았음
+src/main/java/kr/or/ddit/filter/RequestCounterFilter.java:27:	생성자에서 Assign된 변수 'requestCountMap' 를 Final로 선언하지 않았음
+src/main/java/kr/or/ddit/filter/RequestCounterFilter.java:29:	빈 Method에 주석을 추가할것
+src/main/java/kr/or/ddit/filter/RequestCounterFilter.java:57:	빈 Method에 주석을 추가할것
+src/main/java/kr/or/ddit/jstl/FormatServlet.java:29:	필요없는 문장 (;)이 있음
+src/main/java/kr/or/ddit/listener/RequestListener.java:12:	사용되지 않는 Private field 'logger' 가 선언되었음
+src/main/java/kr/or/ddit/listener/RequestListener.java:12:	생성자에서 Assign된 변수 'logger' 를 Final로 선언하지 않았음
+src/main/java/kr/or/ddit/listener/SessionAttributeListener.java:16:	생성자에서 Assign된 변수 'logger' 를 Final로 선언하지 않았음
+src/main/java/kr/or/ddit/listener/SessionAttributeListener.java:18:	생성자에서 Assign된 변수 'loginSessionMap' 를 Final로 선언하지 않았음
+src/main/java/kr/or/ddit/listener/SessionListener.java:11:	사용되지 않는 Private field 'logger' 가 선언되었음
+src/main/java/kr/or/ddit/listener/SessionListener.java:11:	생성자에서 Assign된 변수 'logger' 를 Final로 선언하지 않았음
+src/main/java/kr/or/ddit/login/LoginServlet.java:26:	빈 Method에 주석을 추가할것
+src/main/java/kr/or/ddit/login/LoginServlet.java:72:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/login/LoginServlet.java:73:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/lprod/dao/LprodDao.java:14:	생성자에서 Assign된 변수 'sqlSessionFactory' 를 Final로 선언하지 않았음
+src/main/java/kr/or/ddit/lprod/model/LprodVo.java:6:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'lprod_id' is not final.
+src/main/java/kr/or/ddit/lprod/model/LprodVo.java:7:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'lprod_nm' is not final.
+src/main/java/kr/or/ddit/lprod/model/LprodVo.java:8:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'lprod_gu' is not final.
+src/main/java/kr/or/ddit/lprod/model/LprodVo.java:18:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'lprod_id' is not final.
+src/main/java/kr/or/ddit/lprod/model/LprodVo.java:26:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'lprod_nm' is not final.
+src/main/java/kr/or/ddit/lprod/model/LprodVo.java:34:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'lprod_gu' is not final.
+src/main/java/kr/or/ddit/lprod/service/LprodService.java:13:	생성자에서 Assign된 변수 'lprodDao' 를 Final로 선언하지 않았음
+src/main/java/kr/or/ddit/servlet/BasicServlet.java:35:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/servlet/BasicServlet.java:40:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/servlet/ForwardServlet.java:21:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/servlet/RedirectServlet.java:22:	System.out.print 가 사용됨.
+src/main/java/kr/or/ddit/student/dao/StudentDao.java:14:	생성자에서 Assign된 변수 'sqlSessionFactory' 를 Final로 선언하지 않았음
+src/main/java/kr/or/ddit/student/model/StudentVo.java:10:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'call_cnt' is not final.
+src/main/java/kr/or/ddit/student/model/StudentVo.java:17:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'reg_dt' is not final.
+src/main/java/kr/or/ddit/student/model/StudentVo.java:38:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'call_cnt' is not final.
+src/main/java/kr/or/ddit/student/model/StudentVo.java:44:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'reg_dt' is not final.
+src/main/java/kr/or/ddit/student/service/StudentService.java:15:	생성자에서 Assign된 변수 'studentDao' 를 Final로 선언하지 않았음
+src/main/java/kr/or/ddit/user/model/UserVo.java:11:	생성자에서 Assign된 변수 'logger' 를 Final로 선언하지 않았음
+src/test/java/kr/or/ddit/calculator/CalculatorTest.java:40:	System.out.print 가 사용됨.
+src/test/java/kr/or/ddit/calculator/CalculatorTest.java:48:	System.out.print 가 사용됨.
+src/test/java/kr/or/ddit/encrypt/kisa/seed/KISA_SEED_CBC_Test.java:11:	생성자에서 Assign된 변수 'logger' 를 Final로 선언하지 않았음
+src/test/java/kr/or/ddit/encrypt/kisa/sha256/KISA_SHA256_Test.java:11:	생성자에서 Assign된 변수 'logger' 를 Final로 선언하지 않았음
+src/test/java/kr/or/ddit/lprod/dao/LprodDaoTest.java:31:	System.out.print 가 사용됨.
+src/test/java/kr/or/ddit/lprod/dao/LprodDaoTest.java:50:	System.out.print 가 사용됨.
+src/test/java/kr/or/ddit/lprod/service/LprodServiceTest.java:32:	System.out.print 가 사용됨.
+src/test/java/kr/or/ddit/student/dao/StudentDaoTest.java:46:	System.out.print 가 사용됨.
+src/test/java/kr/or/ddit/student/dao/StudentDaoTest.java:47:	System.out.print 가 사용됨.
+src/test/java/kr/or/ddit/student/dao/StudentDaoTest.java:69:	System.out.print 가 사용됨.
+src/test/java/kr/or/ddit/student/dao/StudentDaoTest.java:70:	System.out.print 가 사용됨.
+src/test/java/kr/or/ddit/student/dao/StudentDaoTest.java:90:	System.out.print 가 사용됨.
+src/test/java/kr/or/ddit/student/dao/StudentDaoTest.java:91:	System.out.print 가 사용됨.
+src/test/java/kr/or/ddit/student/dao/StudentDaoTest.java:109:	System.out.print 가 사용됨.
+src/test/java/kr/or/ddit/student/dao/StudentDaoTest.java:110:	System.out.print 가 사용됨.
+src/test/java/kr/or/ddit/student/dao/StudentDaoTest.java:132:	System.out.print 가 사용됨.
+src/test/java/kr/or/ddit/student/dao/StudentDaoTest.java:133:	System.out.print 가 사용됨.
+src/test/java/kr/or/ddit/student/service/StudentServiceTest.java:50:	System.out.print 가 사용됨.
+src/test/java/kr/or/ddit/student/service/StudentServiceTest.java:70:	System.out.print 가 사용됨.
+src/test/java/kr/or/ddit/student/service/StudentServiceTest.java:90:	System.out.print 가 사용됨.
+src/test/java/kr/or/ddit/student/service/StudentServiceTest.java:123:	System.out.print 가 사용됨.
+src/test/java/kr/or/ddit/student/service/StudentServiceTest.java:153:	System.out.print 가 사용됨.
